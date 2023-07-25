@@ -2,10 +2,9 @@
 
 # Bienvenidos a mi Portafolio de Proyectos de Data Science
 
-[![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/tuusuario/turepositorio)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](https://opensource.org/licenses/MIT)
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/Davidarr96)
 
-## ¡Hola! Soy David, Data Scientist
+## ¿ Quién soy?
 
 ¡Bienvenidos a mi repositorio! Soy un Data Scientist apasionado por el mundo del análisis de datos y la generación de conocimiento a partir de ellos. Mi objetivo es utilizar las herramientas de Data Science para resolver problemas complejos y tomar decisiones basadas en datos.
 
