@@ -4,7 +4,7 @@
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/Davidarr96)
 
-## ¿ Quién soy?
+## ¿Quién soy?
 
 Soy un Data Scientist apasionado por el mundo del análisis de datos y la generación de conocimiento a partir de ellos. Mi objetivo es utilizar las herramientas de Data Science para resolver problemas complejos y tomar decisiones basadas en datos.
 
