@@ -6,7 +6,7 @@
 
 ## ¿ Quién soy?
 
-¡Bienvenidos a mi repositorio! Soy un Data Scientist apasionado por el mundo del análisis de datos y la generación de conocimiento a partir de ellos. Mi objetivo es utilizar las herramientas de Data Science para resolver problemas complejos y tomar decisiones basadas en datos.
+Soy un Data Scientist apasionado por el mundo del análisis de datos y la generación de conocimiento a partir de ellos. Mi objetivo es utilizar las herramientas de Data Science para resolver problemas complejos y tomar decisiones basadas en datos.
 
 ## ¿Qué puedo ofrecer?
 
@@ -26,9 +26,9 @@
 
 - [Plataforma de Streaming](https://github.com/Davidarr96/Plataformas-de-Streaming)
 
-- [Analísis de Accidentes Aereos](https://github.com/Davidarr96/Analisis-Accidentes-Aereos-Data-Analytics).
+- [Analísis de Accidentes Aereos](https://github.com/Davidarr96/Analisis-Accidentes-Aereos-Data-Analytics)
 
-- [Proyecto esperanza de vida ](https://github.com/datainsi/Esperanza_de_vida).
+- [Proyecto esperanza de vida ](https://github.com/datainsi/Esperanza_de_vida)
 
 ## Cómo utilizar este repositorio
 
