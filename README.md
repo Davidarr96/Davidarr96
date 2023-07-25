@@ -1,6 +1,6 @@
 ### Hola!Soy David 👋
 
-# Bienvenido/a a mi Portafolio de Proyectos de Data Science
+# Bienvenidos a mi Portafolio de Proyectos de Data Science
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/tuusuario/turepositorio)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](https://opensource.org/licenses/MIT)
