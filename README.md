@@ -41,11 +41,13 @@ Soy un Data Scientist apasionado por el mundo del análisis de datos y la genera
 - Docker
 -  FastAPI
 -  MongoDB
+
 Entre otras herramientas.
   
-Si estás interesado/a en colaborar en alguno de los proyectos o tienes alguna pregunta, no dudes en contactarme. Estoy siempre abierto/a a nuevas ideas y a trabajar en proyectos emocionantes.
 
 ## Contacto
+
+Si estás interesado/a en colaborar en alguno de los proyectos o tienes alguna pregunta, no dudes en contactarme. Estoy siempre abierto/a a nuevas ideas y a trabajar en proyectos emocionantes.
 
 Puedes contactarme a través de:
 
