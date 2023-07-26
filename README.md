@@ -30,10 +30,19 @@ Soy un Data Scientist apasionado por el mundo del análisis de datos y la genera
 
 - [Proyecto esperanza de vida ](https://github.com/datainsi/Esperanza_de_vida)
 
-## Cómo utilizar este repositorio
+## ¿Qué tecnologías uso?
 
-En este repositorio encontrarás algunos de los proyectos de Data Science en los que he trabajado recientemente. Cada proyecto tiene su propio directorio con el código fuente, conjuntos de datos y una explicación detallada del proceso y los resultados en el archivo `README.md` dentro de cada carpeta.
-
+- Python, con sus respectivas librerias
+- MySQL/SQL Server
+- Power Bi
+- Azure Microsoft
+- GIT
+- Tableau
+- Docker
+-  FastAPI
+-  MongoDB
+Entre otras herramientas.
+  
 Si estás interesado/a en colaborar en alguno de los proyectos o tienes alguna pregunta, no dudes en contactarme. Estoy siempre abierto/a a nuevas ideas y a trabajar en proyectos emocionantes.
 
 ## Contacto
@@ -41,7 +50,7 @@ Si estás interesado/a en colaborar en alguno de los proyectos o tienes alguna p
 Puedes contactarme a través de:
 
 - Email: davidarrieta96@gmail.com
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/david-jesus-arrieta/)
+- LinkedIn: [David Arrieta](https://www.linkedin.com/in/david-jesus-arrieta/)
 
 
 
