@@ -42,7 +42,7 @@ Soy un Data Scientist apasionado por el mundo del análisis de datos y la genera
 -  FastAPI
 -  MongoDB
 
-Ademá me encuentro aprendiendo nuevas herramientas de manera autodidacta nuevas herramientas para agregar a mi stack tecnológico 
+Además me encuentro aprendiendo nuevas herramientas de manera autodidacta nuevas herramientas para agregar a mi stack tecnológico 
   
 
 ## Contacto
