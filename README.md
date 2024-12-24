@@ -58,6 +58,6 @@ Puedes contactarme a través de:
 
 ---
 
-¡Gracias por visitar mi repositorio! Si te interesa el mundo del Data Science y deseas colaborar en alguno de mis proyectos o tienes alguna idea en mente, no dudes en contactarme. Estoy emocionado de seguir aprendiendo y trabajando en proyectos desafiantes junto a otros entusiastas del análisis de datos.
+¡Gracias por visitar mi repositorio! Si te interesa el mundo de la ciencias de datos y deseas colaborar en alguno de mis proyectos o tienes alguna idea en mente, no dudes en contactarme. Estoy emocionado de seguir aprendiendo y trabajando en proyectos desafiantes junto a otros entusiastas del análisis de datos.
 
 ¡Que tengas un excelente día!
